@@ -14,14 +14,16 @@ Learn the Time to Learn: Replay Scheduling for Continual Learning.<br>
 * **M. Klasson**,  C. Zhang, and H. Kjellström.<br>
 Using Variational Multi-view Learning for Classification of Grocery Items.<br>
 *Patterns* 1.8 (2020): 100143.<br>
-[Patterns Open Access](https://doi.org/10.1016/j.patter.2020.100143){: .btn}
+[Patterns Open Access](https://doi.org/10.1016/j.patter.2020.100143){: .btn},
+[Code (Tensorflow v1)](https://github.com/marcusklasson/vcca_grocerystore)
 
 * **M. Klasson**, C. Zhang, and H. Kjellström.<br>
 A hierarchical grocery store image dataset with visual and semantic labels.<br>
 *IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2019.<br>
 [Arxiv](https://arxiv.org/abs/1901.00711){: .btn}, 
 [Youtube](https://www.youtube.com/watch?v=aTCK0OWil-A), 
-[Poster](https://marcusklasson.github.io/files/poster_wacv2019.pdf)
+[Poster](https://marcusklasson.github.io/files/poster_wacv2019.pdf),
+[Dataset](https://github.com/marcusklasson/GroceryStoreDataset)
 
 * **M. Klasson**, K. Zhang, B. Bertilson, C. Zhang and H. Kjellström.<br>
 Causality Refined Diagnostic Prediction.<br>
