@@ -11,9 +11,10 @@ title: Welcome
 
 <!-- ![portrait](images/mklas.png "yoguapo") -->
 <img style="float: left; border: 5px solid white" width="200" src="images/mklas.png" alt="yoguapo">
-I am a PhD student in machine learning and computer vision at the divison of Robotics, Perception, and Learning (RPL) at KTH Royal Institute of Technology in Stockholm, Sweden. 
+I am a PhD student in machine learning and computer vision at the [divison of Robotics, Perception, and Learning (RPL)](https://www.kth.se/is/rpl/) 
+at KTH Royal Institute of Technology in Stockholm, Sweden. 
 
-My research project is on developing computer vision methods for assisting visually impaired people and is funded by Stiftelsen Promobilia. 
+My research project is on developing computer vision methods for assisting visually impaired people and is funded by [Stiftelsen Promobilia](https://www.promobilia.se/). 
 Mainly, I have been interested in data-efficient methods for image classification, where I am currently focusing on continual learning.
 I will defend my PhD thesis in November, 2022.
 
