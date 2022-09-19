@@ -3,7 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-The list below can be found on my [Google Scholar](https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en) profile. 
+The complete list can be found on my [Google Scholar](https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en) profile. 
+
+* **M. Klasson**, H. Kjellström,  C. Zhang.<br>
+Learn the Time to Learn: Replay Scheduling in Continual Learning.<br>
+*Pre-print*, 2022.<br>
+[PDF](https://marcusklasson.github.io/files/learn_the_time_to_learn_preprint.pdf), 
+will appear on Arxiv soon
 
 * **M. Klasson**, H. Kjellström,  C. Zhang.<br>
 Learn the Time to Learn: Replay Scheduling for Continual Learning.<br>
