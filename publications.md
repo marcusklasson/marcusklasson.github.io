@@ -8,8 +8,7 @@ The complete list can be found on my [Google Scholar](https://scholar.google.es/
 * **M. Klasson**, H. Kjellström,  C. Zhang.<br>
 Learn the Time to Learn: Replay Scheduling in Continual Learning.<br>
 *Pre-print*, 2022.<br>
-[PDF](https://marcusklasson.github.io/files/learn_the_time_to_learn_preprint.pdf), 
-will appear on Arxiv soon
+[Arxiv](https://arxiv.org/abs/2209.08660)
 
 * **M. Klasson**, H. Kjellström,  C. Zhang.<br>
 Learn the Time to Learn: Replay Scheduling for Continual Learning.<br>
