@@ -3,7 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-The complete list can be found on my [Google Scholar](https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en) profile. 
+[Google Scholar profile](https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en). 
+
+* PhD Thesis. Last update Oct 17, 2022.<br>
+**Fine-Grained and Continual Visual Recognition for Assisting Visually Impaired People**.<br>
+*Defense on November 8 at 9.00 Swedish time. [More info at kth.se](https://www.kth.se/en/om/mot/kalender/fine-grained-and-continual-visual-recognition-for-assisting-visually-impaired-people-1.1199637?date=2022-11-08&orgdate=2022-11-08&length=1&orglength=1).*<br>
+[PDF Link](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf)
 
 * M. Klasson, H. Kjellström,  C. Zhang.<br>
 **Learn the Time to Learn: Replay Scheduling in Continual Learning**.<br>
@@ -40,3 +45,4 @@ The complete list can be found on my [Google Scholar](https://scholar.google.es/
 **Conjugate-prior-regularized multinomial pLSA for collaborative filtering**.<br>
 *25th European Signal Processing Conference (EUSIPCO)*, 2017.<br>
 [Poster](https://marcusklasson.github.io/files/poster_eusipco2017.pdf)
+
