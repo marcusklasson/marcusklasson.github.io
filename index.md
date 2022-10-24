@@ -15,16 +15,22 @@ I am a PhD student in machine learning and computer vision at the [divison of Ro
 at KTH Royal Institute of Technology in Stockholm, Sweden. 
 
 My research project is on developing computer vision methods for assisting visually impaired people and is funded by [Stiftelsen Promobilia](https://www.promobilia.se/). 
-Mainly, I have been interested in data-efficient methods for image classification, where I am currently focusing on continual learning.
-I will defend my PhD thesis in November, 2022.
+Mainly, I have been interested in data-efficient methods for image classification, where I am currently focusing on continual learning.<br><br>
 
 
-Here is a brief summary of my PhD research: 
+#### **News**
 
+* **2022-10-24.** I will defend my thesis on November 8. 
+The defense starts at 9.00 (Swedish time) in Room F3 at KTH Campus and will also be on [Zoom](https://kth-se.zoom.us/j/61189313070).<br> 
+[PDF Link to thesis](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf),
+[Info about event at kth.se](https://www.kth.se/en/om/mot/kalender/fine-grained-and-continual-visual-recognition-for-assisting-visually-impaired-people-1.1199637?date=2022-11-08&orgdate=2022-11-08&length=1&orglength=1).
+
+<!--
+**Summary of PhD research:**
 *My PhD research has been on developing computer vision methods for assisting people with visual impairment. 
 Early on, my research focused on the study of image classification for visual assistance when grocery shopping using a mobile phone. 
 Here, we applied a variational autoencoder for fusing mobile phone images together with web-scraped images and text descriptions of groceries to train more accurate classifiers, compared to training with mobile phone images only. 
 More recently, I have worked with replay-based continual learning motivated by mitigating catastrophic forgetting of image classifiers in user personalization scenarios. 
 Our focus has been on showing the benefits of scheduling which tasks to replay at different time intervals, which is necessary in scenarios where the number of tasks exceeds the replay memory size. 
 Currently, we are aiming to use reinforcement learning for learning replay scheduling policies that can generalize better than replaying all seen tasks equally.*
- 
+-->
