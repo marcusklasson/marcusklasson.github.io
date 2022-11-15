@@ -20,10 +20,15 @@ Mainly, I have been interested in data-efficient methods for image classificatio
 
 #### **News**
 
+* **2022-11-08.** I have passed my thesis defense and obtained my PhD degree! Special thanks to my opponent Prof. Davide Bacciu; my grading committee members Prof. Serge Belongie, Prof. Per-Erik Forssén, and Prof. Nataša Sladoje; my chairperson Danica Kragic and my supervisors Prof. Hedvig Kjellström and Dr. Cheng Zhang. 
+[PDF Link to thesis](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf), [Slides](https://marcusklasson.github.io/files/phdthesis_slides.pdf)
+
+<!--
 * **2022-10-24.** I will defend my thesis on November 8. 
 The defense starts at 9.00 (Swedish time) in Room F3 at KTH Campus and will also be on [Zoom](https://kth-se.zoom.us/j/61189313070).<br> 
 [PDF Link to thesis](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf),
 [Info about event at kth.se](https://www.kth.se/en/om/mot/kalender/fine-grained-and-continual-visual-recognition-for-assisting-visually-impaired-people-1.1199637?date=2022-11-08&orgdate=2022-11-08&length=1&orglength=1).
+-->
 
 <!--
 **Summary of PhD research:**
