@@ -9,8 +9,8 @@ layout: home
 title: Welcome
 ---
 
-<!-- ![portrait](images/mklas.png "yoguapo") -->
-<img style="float: left; border: 5px solid white" width="200" src="images/mklas.png" alt="yoguapo">
+<!-- ![portrait](images/marcusklasson.jpeg "yoguapo") -->
+<img style="float: left; border: 5px solid white" width="200" src="images/marcusklasson.jpeg" alt="yoguapo">
 I am a PhD student in machine learning and computer vision at the [divison of Robotics, Perception, and Learning (RPL)](https://www.kth.se/is/rpl/) 
 at KTH Royal Institute of Technology in Stockholm, Sweden. 
 
@@ -19,6 +19,10 @@ Mainly, I have been interested in data-efficient methods for image classificatio
 
 
 #### **News**
+
+* **2023-02-01.** I have relocated to Helsinki in Finland and started working as a postdoc at Aalto University supervised by 
+Prof. [Arno Solin](https://users.aalto.fi/~asolin/) and 
+Prof. [Juho Kannala](https://users.aalto.fi/~kannalj1/).  
 
 * **2022-11-08.** I have passed my thesis defense and obtained my PhD degree! Special thanks to my opponent Prof. Davide Bacciu; my grading committee members Prof. Serge Belongie, Prof. Per-Erik Forssén, and Prof. Nataša Sladoje; my chairperson Danica Kragic and my supervisors Prof. Hedvig Kjellström and Dr. Cheng Zhang. 
 [PDF Link to thesis](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf), [Slides](https://marcusklasson.github.io/files/phdthesis_slides.pdf)
