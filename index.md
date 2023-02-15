@@ -11,11 +11,14 @@ title: Welcome
 
 <!-- ![portrait](images/marcusklasson.jpeg "yoguapo") -->
 <img style="float: left; border: 5px solid white" width="200" src="images/marcusklasson.jpeg" alt="yoguapo">
-I am a PhD student in machine learning and computer vision at the [divison of Robotics, Perception, and Learning (RPL)](https://www.kth.se/is/rpl/) 
-at KTH Royal Institute of Technology in Stockholm, Sweden. 
+I am a postdoctoral researcher at the Computer Science department of Aalto University in Finland, 
+where I am supervised by Prof. [Arno Solin](https://users.aalto.fi/~asolin/) and Prof. [Juho Kannala](https://users.aalto.fi/~kannalj1/). 
+My research project is on Uncertainty Quantification in Deep Vision Models and is funded by [FCAI](https://fcai.fi/). 
 
-My research project is on developing computer vision methods for assisting visually impaired people and is funded by [Stiftelsen Promobilia](https://www.promobilia.se/). 
-Mainly, I have been interested in data-efficient methods for image classification, where I am currently focusing on continual learning.<br><br>
+Before joining Aalto, I obtained my PhD at the [divison of Robotics, Perception, and Learning (RPL)](https://www.kth.se/is/rpl/) 
+at KTH Royal Institute of Technology in Stockholm, Sweden, 
+where I was supervised by Prof. [Hedvig Kjellström](https://www.kth.se/profile/hedvig) and Dr. [Cheng Zhang](https://cheng-zhang.org/). 
+<br><br>
 
 
 #### **News**
