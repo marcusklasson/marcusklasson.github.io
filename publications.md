@@ -7,11 +7,11 @@ permalink: /publications/
 
 * M. Klasson, H. Kjellström,  C. Zhang.<br>
 **Learn the Time to Learn: Replay Scheduling in Continual Learning**.<br>
-*To appear in Transactions on Machine Learning Research (TMLR)*, 2023.<br>
+*Transactions on Machine Learning Research (TMLR)*, 2023.<br>
 [Openreview](https://openreview.net/forum?id=Q4aAITDgdP), 
 [Video](https://youtu.be/huCX46HqMl4), 
 [Code](https://github.com/marcusklasson/replay_scheduling), 
-[Arxiv (old  version)](https://arxiv.org/abs/2209.08660)
+[Arxiv](https://arxiv.org/abs/2209.08660)
 
 * PhD Thesis. Last update in November 2022.<br>
 **Fine-Grained and Continual Visual Recognition for Assisting Visually Impaired People**.<br>
