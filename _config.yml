@@ -3,12 +3,13 @@ author:
   name: Marcus Klasson
   email: marcus.klasson@aalto.fi
 description: > # this means to ignore newlines until "show_excerpts:"
-  ¯\_(ツ)_/¯
+#  ¯\_(ツ)_/¯
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 github_username: marcusklasson
 google_scholar_id: H9VHxP4AAAAJ&hl
+linkedin_id: marcus-klasson-446448b4
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -24,7 +25,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: marcus-klasson-446448b4
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -51,10 +52,11 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
+ - cv.md
  - publications.md
 # - about.md
 # - blog.md
-# - cv.md
+ 
 
 # Build settings
 theme: minima

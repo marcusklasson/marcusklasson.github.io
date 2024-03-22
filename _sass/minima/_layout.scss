@@ -340,3 +340,29 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/**
+ * CV page double column
+ */
+
+
+/* Create two equal columns that floats next to each other */
+.columnleft {
+  float: left;
+  width: 30%;
+  padding: 0px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.columnright {
+  float: left;
+  width: 70%;
+  padding: 0px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
