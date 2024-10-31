@@ -45,6 +45,13 @@ where I was supervised by [Hedvig Kjellström](https://www.kth.se/profile/hedvig
 My thesis was motivated from assisting visually impaired people using computer vision, where I focused on image classification of groceries and continual learning.
 My PhD experience taught me to aim for formulating research questions based on real-world needs to recognize what challenges should be tackled to reach certain goals. 
 
+### **News**
+
+* **2024-10-31**: Three workshop papers accepted at Neurips that are from fun projects that I am involved in: 
+    * [Probabilistic Active Few-Shot Learning in Vision-Language Models](https://openreview.net/forum?id=sSX9wLMSJT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FBDU%2FAuthors%23your-submissions))
+    * [Posterior Inferred, Now What? Streamlining Prediction in Bayesian Deep Learning](https://openreview.net/forum?id=cx9TXPTzt9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FBDU%2FAuthors%23your-submissions))
+    * [Differentially Private Continual Learning using Pre-Trained Models](https://openreview.net/forum?id=8Xdu4IyTSP&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FContinual_FoMo%2FAuthors%23your-submissions))
+
 
 
 <!-- 

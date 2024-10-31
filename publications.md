@@ -5,6 +5,16 @@ permalink: /publications/
 ---
 [Google Scholar profile](https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en). 
 
+* PhD Thesis. Last update in November 2022.<br>
+**Fine-Grained and Continual Visual Recognition for Assisting Visually Impaired People**.<br>
+*Defense on November 8 at 9.00 Swedish time. [More info at kth.se](https://www.kth.se/en/om/mot/kalender/fine-grained-and-continual-visual-recognition-for-assisting-visually-impaired-people-1.1199637?date=2022-11-08&orgdate=2022-11-08&length=1&orglength=1).*<br>
+[PDF Link](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf),
+[Slides](https://marcusklasson.github.io/files/phdthesis_slides.pdf)
+
+
+### Conferences & Journals 
+
+
 * M. Klasson, H. Kjellström,  C. Zhang.<br>
 **Learn the Time to Learn: Replay Scheduling in Continual Learning**.<br>
 *Transactions on Machine Learning Research (TMLR)*, 2023.<br>
@@ -13,17 +23,6 @@ permalink: /publications/
 [Code](https://github.com/marcusklasson/replay_scheduling), 
 [Arxiv](https://arxiv.org/abs/2209.08660)
 
-* PhD Thesis. Last update in November 2022.<br>
-**Fine-Grained and Continual Visual Recognition for Assisting Visually Impaired People**.<br>
-*Defense on November 8 at 9.00 Swedish time. [More info at kth.se](https://www.kth.se/en/om/mot/kalender/fine-grained-and-continual-visual-recognition-for-assisting-visually-impaired-people-1.1199637?date=2022-11-08&orgdate=2022-11-08&length=1&orglength=1).*<br>
-[PDF Link](https://marcusklasson.github.io/files/phdthesis_MarcusKlasson.pdf),
-[Slides](https://marcusklasson.github.io/files/phdthesis_slides.pdf)
-
-* M. Klasson, H. Kjellström,  C. Zhang.<br>
-**Learn the Time to Learn: Replay Scheduling for Continual Learning**.<br>
-*ICML workshop on Theory and Foundation of Continual Learning*, 2021.<br>
-[Workshop Page](https://sites.google.com/view/cl-theory-icml2021/accepted-papers){: .btn}, 
-[Poster](https://marcusklasson.github.io/files/poster_icml_clworkshop2021.pdf)
 
 * M. Klasson,  C. Zhang, and H. Kjellström.<br>
 **Using Variational Multi-view Learning for Classification of Grocery Items**.<br>
@@ -39,14 +38,29 @@ permalink: /publications/
 [Poster](https://marcusklasson.github.io/files/poster_wacv2019.pdf),
 [Dataset](https://github.com/marcusklasson/GroceryStoreDataset)
 
-* M. Klasson, K. Zhang, B. Bertilson, C. Zhang and H. Kjellström.<br>
-**Causality Refined Diagnostic Prediction**.<br>
-*NIPS Workshop on Machine Learning for Health (ML4H)*, 2017.<br>
-[Arxiv](https://arxiv.org/abs/1711.10915){: .btn},
-[Poster](https://marcusklasson.github.io/files/poster_ml4h2017.pdf)
 
 * M. Klasson, S.I. Adalbjörnsson, J. Swärd, S.V. Andersen.<br>
 **Conjugate-prior-regularized multinomial pLSA for collaborative filtering**.<br>
 *25th European Signal Processing Conference (EUSIPCO)*, 2017.<br>
 [Poster](https://marcusklasson.github.io/files/poster_eusipco2017.pdf)
 
+### Workshop Papers
+
+* M. Klasson, R. Mereu, J. Kannala, A. Solin.<br>
+**Sources of Uncertainty in 3D Scene Reconstruction**.<br>
+*ECCV Workshop Proceedings*, 2024.<br>
+[Arxiv](https://arxiv.org/abs/2409.06407),
+[Code](https://github.com/AaltoML/uncertainty-nerf-gs),
+[Website](https://aaltoml.github.io/uncertainty-nerf-gs/)
+
+* M. Klasson, H. Kjellström,  C. Zhang.<br>
+**Learn the Time to Learn: Replay Scheduling for Continual Learning**.<br>
+*ICML workshop on Theory and Foundation of Continual Learning*, 2021.<br>
+[Workshop Page](https://sites.google.com/view/cl-theory-icml2021/accepted-papers){: .btn}, 
+[Poster](https://marcusklasson.github.io/files/poster_icml_clworkshop2021.pdf)
+
+* M. Klasson, K. Zhang, B. Bertilson, C. Zhang and H. Kjellström.<br>
+**Causality Refined Diagnostic Prediction**.<br>
+*NIPS Workshop on Machine Learning for Health (ML4H)*, 2017.<br>
+[Arxiv](https://arxiv.org/abs/1711.10915){: .btn},
+[Poster](https://marcusklasson.github.io/files/poster_ml4h2017.pdf)
