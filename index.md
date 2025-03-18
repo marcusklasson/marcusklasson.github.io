@@ -79,7 +79,7 @@ Here is a selected list of my research publications. See <a href="https://schola
     <div class="publication-text">
       <strong>Learn the Time to Learn: Replay Scheduling in Continual Learning</strong><br>
       <strong>Marcus Klasson</strong>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a> <br>
-      <em>TMLR, 2024</em><br>
+      <em>TMLR, 2023</em><br>
       <div class="publication-links">
       	<a href="https://openreview.net/forum?id=Q4aAITDgdP" target="_blank">openreview</a> /
         <a href="https://arxiv.org/abs/2209.08660" target="_blank">arXiv</a> / 
