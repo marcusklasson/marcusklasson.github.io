@@ -9,17 +9,135 @@ layout: home
 title: #Welcome
 ---
 
-<!-- ![portrait](images/marcusklasson.jpeg "yoguapo") -->
-<img style="float: left; border: 5px solid white" width="128" src="images/marcusklasson.jpeg" alt="marcus">
+
+<div class="profile">
+  <img src="images/marcusklasson_2024.jpg" alt="Marcus Klasson" class="profile-image">
+  <div class="profile-text">
+    <p class="profile-name">Marcus Klasson</p>
+    <p class="profile-bio">
+	  I obtained my PhD from <a href="https://kth.se">KTH</a> in Sweden, where I was supervised by <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/">Cheng Zhang</a>. 
+      After the PhD, I was a postdoc at <a href="https://kth.se">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/GS and VLMs. 
+    </p>
+    <div class="profile-links">
+      <a href="https://marcusklasson.github.io/files/cv_march2024.pdf">CV</a> /
+      <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h">Scholar</a> /
+      <a href="https://github.com/marcusklasson">GitHub</a> /
+      <a href="https://bsky.app/profile/marcusklasson.bsky.social">Bluesky</a> /
+      <a href="mailto:marcusklasson@hotmail.com">Email</a>
+    </div>
+  </div>
+</div>
+
+<style>
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.profile-image {
+  width: 186px;
+  height: 186px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.profile-text {
+  max-width: 600px;
+}
+
+.profile-name {
+  font-size: 28px;
+  font-weight: normal;
+  margin: 0;
+}
+
+.profile-bio {
+  font-size: 13px;
+  margin: 5px 0;
+}
+
+.profile-links a {
+  margin-right: 0px;
+  text-decoration: none;
+  font-size: 12px;
+}
+</style>
 
 
-<p style="font-size:32px; padding-left:164px; padding-top:10px;">  Marcus Klasson</p>
-<p style="font-size:16px; padding-left:164px;">  Postdoc at Aalto University, Finland</p>
+## Research
 
-<!-- 
-<h1 style="padding-left:230px;">  Marcus Klasson</h1>
-<h3 style="padding-left:230px;">  Postdoc at Aalto University, Finland</h3>
--->
+I am interested in computer vision, deep learning, various approaches to uncertainty estimation, and their real-world applications where methods must adapt fast under limited supervision and resources. 
+
+Here is a selected list of my research publications. See <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h">Google Scholar</a> for a full list.  
+
+<div class="publications">
+
+  <div class="publication">
+    <img src="images/publications/replayschedule_tree.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Learn the Time to Learn: Replay Scheduling in Continual Learning</strong><br>
+      <strong>Marcus Klasson</strong>, <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a>, <a href="https://cheng-zhang.org/">Cheng Zhang</a> <br>
+      <em>TMLR, 2024</em><br>
+      <div class="publication-links">
+      	<a href="https://openreview.net/forum?id=Q4aAITDgdP">openreview</a> /
+        <a href="https://arxiv.org/abs/2209.08660">arXiv</a> / 
+        <a href="https://github.com/marcusklasson/replay_scheduling">code</a> / 
+        <a href="https://www.youtube.com/watch?v=huCX46HqMl4">video</a> 
+      </div>
+      Learning schedules over which tasks to replay at different times in continual learning can outperform replaying all tasks equally or using heuristic scheduling rules.  
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="images/publications/wacv_intro.jpg" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels</strong><br>
+      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a> <br>
+      <em>WACV, 2019</em><br>
+      <div class="publication-links">
+        <a href="https://github.com/marcusklasson/GroceryStoreDataset">dataset</a> /
+        <a href="https://arxiv.org/abs/1901.00711">arXiv</a> /  
+        <a href="https://youtu.be/aTCK0OWil-A">video</a> 
+      </div>
+      Dataset for grocery item classification with natural images from grocery stores organized with hierarchical labels, where each class has a corresponding web-scraped text and iconic image.   
+    </div>
+  </div>
+
+</div>
+
+<style>
+.publications {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.publication {
+  display: flex;
+  align-items: center;
+}
+
+.publication-image {
+  width: 200px;
+  height: auto;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.publication-text {
+  max-width: 600px;
+  font-size: 12px;
+}
+
+.publication-links a {
+  margin-right: 0px;
+  text-decoration: none;
+}
+</style>
+
+
 
 <!-- 
 I am a postdoctoral researcher at the Computer Science department of Aalto University in Finland, 
@@ -30,22 +148,26 @@ Before joining Aalto, I obtained my PhD at the [divison of Robotics, Perception,
 at KTH Royal Institute of Technology in Stockholm, Sweden, 
 where I was supervised by Prof. [Hedvig Kjellström](https://www.kth.se/profile/hedvig) and Dr. [Cheng Zhang](https://cheng-zhang.org/). 
 -->
+
+<!--
 <br clear="left"/>
 
 I am a postdoctoral researcher at the Computer Science department in Aalto University, working mainly with [Arno Solin](https://users.aalto.fi/~asolin/) and [Juho Kannala](https://users.aalto.fi/~kannalj1/). 
 My research project is focused on developing uncertainty-aware methods for computer vision applications and is funded by [FCAI](https://fcai.fi/). 
 I am interested in 3D computer vision, deep learning, probabilistic methods for uncertainty estimation, and their real-world applications where the developed method must adapt fast under limited supervision and resources.  
-<!-- 
-Currently, I am working on incorporating uncertainty estimation into Neural Radiance Fields to improve the robustness in novel view synthesis, for instance, to detect unseen parts and outliers in the scene. 
-My research interests are in probabilistic deep learning for uncertainty estimation in 3D computer vision tasks to build models that must adapt fast under limited supervision and computational resources. 
--->
+
+
 
 I obtained my PhD from KTH Royal Institute of Technology in Sweden, 
 where I was supervised by [Hedvig Kjellström](https://www.kth.se/profile/hedvig) and [Cheng Zhang](https://cheng-zhang.org/). 
 My thesis was motivated from assisting visually impaired people using computer vision, where I focused on image classification of groceries and continual learning.
 My PhD experience taught me to aim for formulating research questions based on real-world needs to recognize what challenges should be tackled to reach certain goals. 
+-->
 
-### **News**
+
+
+<!-- 
+## **News**
 
 * **2024-10-31**: Three workshop papers accepted at Neurips that are from fun projects that I am involved in: 
     * [Probabilistic Active Few-Shot Learning in Vision-Language Models](https://openreview.net/forum?id=sSX9wLMSJT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FBDU%2FAuthors%23your-submissions))
@@ -53,8 +175,6 @@ My PhD experience taught me to aim for formulating research questions based on r
     * [Differentially Private Continual Learning using Pre-Trained Models](https://openreview.net/forum?id=8Xdu4IyTSP&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FContinual_FoMo%2FAuthors%23your-submissions))
 
 
-
-<!-- 
 #### **News**
 
 * **2023-02-01.** I have relocated to Helsinki in Finland and started working as a postdoc at Aalto University supervised by 
