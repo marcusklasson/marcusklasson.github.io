@@ -15,15 +15,15 @@ title: #Welcome
   <div class="profile-text">
     <p class="profile-name">Marcus Klasson</p>
     <p class="profile-bio">
-	  I obtained my PhD from <a href="https://kth.se">KTH</a> in Sweden, where I was supervised by <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/">Cheng Zhang</a>. 
-      After the PhD, I was a postdoc at <a href="https://kth.se">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/GS and VLMs. 
+	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a> in Sweden, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
+      After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/GS and VLMs. 
     </p>
     <div class="profile-links">
-      <a href="https://marcusklasson.github.io/files/cv_march2024.pdf">CV</a> /
-      <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h">Scholar</a> /
-      <a href="https://github.com/marcusklasson">GitHub</a> /
-      <a href="https://bsky.app/profile/marcusklasson.bsky.social">Bluesky</a> /
-      <a href="mailto:marcusklasson@hotmail.com">Email</a>
+      <a href="https://marcusklasson.github.io/files/cv_march2024.pdf" target="_blank">CV</a> /
+      <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h" target="_blank">Scholar</a> /
+      <a href="https://github.com/marcusklasson" target="_blank">GitHub</a> /
+      <a href="https://bsky.app/profile/marcusklasson.bsky.social" target="_blank">Bluesky</a> /
+      <a href="mailto:marcusklasson@hotmail.com" target="_blank">Email</a>
     </div>
   </div>
 </div>
@@ -70,7 +70,7 @@ title: #Welcome
 
 I am interested in computer vision, deep learning, various approaches to uncertainty estimation, and their real-world applications where methods must adapt fast under limited supervision and resources. 
 
-Here is a selected list of my research publications. See <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h">Google Scholar</a> for a full list.  
+Here is a selected list of my research publications. See <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h" target="_blank">Google Scholar</a> for a full list.  
 
 <div class="publications">
 
@@ -78,13 +78,13 @@ Here is a selected list of my research publications. See <a href="https://schola
     <img src="images/publications/replayschedule_tree.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Learn the Time to Learn: Replay Scheduling in Continual Learning</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a>, <a href="https://cheng-zhang.org/">Cheng Zhang</a> <br>
+      <strong>Marcus Klasson</strong>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a> <br>
       <em>TMLR, 2024</em><br>
       <div class="publication-links">
-      	<a href="https://openreview.net/forum?id=Q4aAITDgdP">openreview</a> /
-        <a href="https://arxiv.org/abs/2209.08660">arXiv</a> / 
-        <a href="https://github.com/marcusklasson/replay_scheduling">code</a> / 
-        <a href="https://www.youtube.com/watch?v=huCX46HqMl4">video</a> 
+      	<a href="https://openreview.net/forum?id=Q4aAITDgdP" target="_blank">openreview</a> /
+        <a href="https://arxiv.org/abs/2209.08660" target="_blank">arXiv</a> / 
+        <a href="https://github.com/marcusklasson/replay_scheduling" target="_blank">code</a> / 
+        <a href="https://www.youtube.com/watch?v=huCX46HqMl4" target="_blank">video</a> 
       </div>
       Learning schedules over which tasks to replay at different times in continual learning can outperform replaying all tasks equally or using heuristic scheduling rules.  
     </div>
@@ -94,12 +94,12 @@ Here is a selected list of my research publications. See <a href="https://schola
     <img src="images/publications/wacv_intro.jpg" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig">Hedvig Kjellström</a> <br>
+      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
       <em>WACV, 2019</em><br>
       <div class="publication-links">
-        <a href="https://github.com/marcusklasson/GroceryStoreDataset">dataset</a> /
-        <a href="https://arxiv.org/abs/1901.00711">arXiv</a> /  
-        <a href="https://youtu.be/aTCK0OWil-A">video</a> 
+        <a href="https://github.com/marcusklasson/GroceryStoreDataset" target="_blank">dataset</a> /
+        <a href="https://arxiv.org/abs/1901.00711" target="_blank">arXiv</a> /  
+        <a href="https://youtu.be/aTCK0OWil-A" target="_blank">video</a> 
       </div>
       Dataset for grocery item classification with natural images from grocery stores organized with hierarchical labels, where each class has a corresponding web-scraped text and iconic image.   
     </div>
