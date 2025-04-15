@@ -14,9 +14,9 @@ title: #Welcome
   <img src="images/marcusklasson_2024.jpg" alt="Marcus Klasson" class="profile-image">
   <div class="profile-text">
     <p class="profile-name">Marcus Klasson</p>
-    <p class="profile-bio">
-	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a> in Sweden, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
-      After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/GS and VLMs. 
+    <p class="profile-bio"> I work as a researcher at <a href="https://www.ericsson.com/en" target="_blank">Ericsson</a>  in the Sensing and Perception team led by <a href="http://www.josearaujo.org/" target="_blank">José Araújo</a>. <br><br>
+	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a>, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
+    After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/Gaussian Splatting and Vision Language Models. 
     </p>
     <div class="profile-links">
       <a href="https://marcusklasson.github.io/files/cv_march2024.pdf" target="_blank">CV</a> /
@@ -75,6 +75,21 @@ Here is a selected list of my research publications. See <a href="https://schola
 <div class="publications">
 
   <div class="publication">
+    <img src="images/publications/sources.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Sources of Uncertainty in 3D Scene Reconstruction</strong><br>
+      <strong>Marcus Klasson</strong>, <a href="https://scholar.google.com/citations?user=UVziXI0AAAAJ" target="_blank">Riccardo Mereu</a>, <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+      <em>ECCV Workshop on Uncertainty for Computer Vision, 2024</em><br>
+      <div class="publication-links">
+      	<a href="https://aaltoml.github.io/uncertainty-nerf-gs/" target="_blank">project page</a> /
+        <a href="https://arxiv.org/abs/2409.06407" target="_blank">arXiv</a> /
+        <a href="https://github.com/AaltoML/uncertainty-nerf-gs" target="_blank">code</a> 
+      </div>
+      We categorized sources of uncertainties in 3D scene reconstruction using NeRF/Gaussian Splatting and proposed experimental setups for systematically evaluating their impact. 
+    </div>
+  </div>
+
+  <div class="publication">
     <img src="images/publications/replayschedule_tree.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Learn the Time to Learn: Replay Scheduling in Continual Learning</strong><br>
@@ -121,7 +136,15 @@ Here is a selected list of my research publications. See <a href="https://schola
 
 .publication-image {
   width: 200px;
-  height: auto;
+  height: auto; 
+  margin-right: 15px;
+  border-radius: 5px;
+  object-fit: scale-down; /* Crop the image to fit the container, maintaining aspect ratio */
+}
+
+.publication-image-square {
+  width: 160px;
+  height: auto; 
   margin-right: 15px;
   border-radius: 5px;
 }
