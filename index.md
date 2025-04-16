@@ -75,6 +75,20 @@ Here is a selected list of my research publications. See <a href="https://schola
 <div class="publications">
 
   <div class="publication">
+    <img src="images/publications/flatness-small.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Flatness Improves Backbone Generalisation in Few-shot Classification</strong><br>
+       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a>, <strong>Marcus Klasson</strong>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+      <em>WACV, 2025 <strong>(Oral Presentation)</strong> </em> <br>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2404.07696" target="_blank">arXiv</a> /
+        <a href="https://github.com/AaltoML/FlatFSL" target="_blank">code</a> 
+      </div>
+      We show that backbone training and selection utilizing flatness-aware training and fine-tuning can outperform previous SotA methods in multi-domain few-show classification. 
+    </div>
+  </div>
+
+  <div class="publication">
     <img src="images/publications/sources.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Sources of Uncertainty in 3D Scene Reconstruction</strong><br>
@@ -89,19 +103,6 @@ Here is a selected list of my research publications. See <a href="https://schola
     </div>
   </div>
 
-  <div class="publication">
-    <img src="images/publications/flatness-small.png" alt="Paper 2 Image" class="publication-image">
-    <div class="publication-text">
-      <strong>Flatness Improves Backbone Generalisation in Few-shot Classification</strong><br>
-       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a>, <strong>Marcus Klasson</strong>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
-      <em>WACV, 2025 <strong>(Oral Presentation)</strong> </em> <br>
-      <div class="publication-links">
-        <a href="https://arxiv.org/abs/2404.07696" target="_blank">arXiv</a> /
-        <a href="https://github.com/AaltoML/FlatFSL" target="_blank">code</a> 
-      </div>
-      We show that backbone training and selection utilizing flatness-aware training and fine-tuning can outperform previous SotA methods in multi-domain few-show classification. 
-    </div>
-  </div>
 
   <div class="publication">
     <img src="images/publications/replayschedule_tree.png" alt="Paper 2 Image" class="publication-image">
