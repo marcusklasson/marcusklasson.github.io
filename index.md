@@ -23,7 +23,7 @@ title: #Welcome
       <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h" target="_blank">Scholar</a> /
       <a href="https://github.com/marcusklasson" target="_blank">GitHub</a> /
       <a href="https://bsky.app/profile/marcusklasson.bsky.social" target="_blank">Bluesky</a> /
-      <a href="mailto:marcusklasson@hotmail.com" target="_blank">Email</a>
+      <a href="mailto:marcus.klasson@ericsson.com" target="_blank">Email</a>
     </div>
   </div>
 </div>
