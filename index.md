@@ -120,6 +120,20 @@ Here is a selected list of my research publications. See <a href="https://schola
   </div>
 
   <div class="publication">
+    <img src="images/publications/patterns-pipeline.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Using Variational Multi-view Learning for Classification of Grocery Items</strong><br>
+      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
+      <em>Patterns, 2020</em><br>
+      <div class="publication-links">
+        <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30191-4" target="_blank">paper</a> /  
+        <a href="https://github.com/marcusklasson/vcca_grocerystore" target="_blank">code</a> 
+      </div>
+      Using a VAE for fusing natural images with web-scraped images and text descriptions of groceries yields more accurate classifiers compared to training with natural images only. 
+    </div>
+  </div>
+
+  <div class="publication">
     <img src="images/publications/wacv_intro.jpg" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels</strong><br>
