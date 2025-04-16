@@ -70,9 +70,53 @@ title: #Welcome
 
 I am interested in computer vision, deep learning, various approaches to uncertainty estimation, and their real-world applications where methods must adapt fast under limited supervision and resources. 
 
-Here is a selected list of my research publications. See <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h" target="_blank">Google Scholar</a> for a full list.  
+Here is a list of my research publications: 
 
 <div class="publications">
+
+  <div class="publication">
+    <img src="images/publications/bayesvlm.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Post-hoc Probabilistic Vision-Language Models</strong><br>
+       <a href="https://scholar.google.de/citations?user=4CEGXaYAAAAJ" target="_blank">Anton Baumann</a>, <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <strong>Marcus Klasson</strong>, <a href="https://scholar.google.com/citations?user=35fWh2oAAAAJ" target="_blank">Santeri Mentu</a>, <a href="https://sgk98.github.io/" target="_blank">Shyamgopal Karthik</a>, <a href="https://www.helmholtz-munich.de/en/chc/eml/pi/zeynep-akata" target="_blank">Zeynep Akata</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
+      <em>preprint </em> <br>
+      <div class="publication-links">
+      <a href="https://aaltoml.github.io/BayesVLM/" target="_blank">project page</a> /
+        <a href="https://arxiv.org/abs/2412.06014" target="_blank">arXiv</a> /
+        <a href="https://github.com/AaltoML/BayesVLM" target="_blank">code</a> 
+      </div>
+      The Laplace approximation on top of VLMs enables analytic uncertainty propagation without additional training useful for downstream tasks and in active learning. 
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="images/publications/desplat.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering</strong><br>
+       <a href="https://johanna0626.github.io/" target="_blank">Yihao Wang</a>, <strong>Marcus Klasson</strong>, <a href="https://maturk.github.io/" target="_blank">Matias Turkulainen</a>, <a href="https://ffrivera0.github.io/" target="_blank">Shuzhe Wang</a>, <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+      <em>CVPR, 2025 </em> <br>
+      <div class="publication-links">
+      <a href="https://aaltoml.github.io/desplat/" target="_blank">project page</a> /
+        <a href="https://arxiv.org/abs/2411.19756" target="_blank">arXiv</a> /
+        <a href="https://github.com/AaltoML/desplat/" target="_blank">code</a> 
+      </div>
+      Reconstructing distractors and multi-view inconsistencies with view-specific Gaussians enables explicit separation of occluders and the underlying static 3D scene.
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="images/publications/streamlined.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Streamlining Prediction in Bayesian Deep Learning</strong><br>
+       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <strong>Marcus Klasson</strong>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
+      <em>ICLR, 2025 </em> <br>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2411.18425" target="_blank">arXiv</a> /
+        <a href="https://github.com/AaltoML/SUQ" target="_blank">code</a> 
+      </div>
+      Local linearization of activation functions and local Gaussian approximations at linear layers bring accurate and fast predictive uncertainties scalable to ViT and GPT-2. 
+    </div>
+  </div>
 
   <div class="publication">
     <img src="images/publications/flatness-small.png" alt="Paper 2 Image" class="publication-image">
@@ -99,7 +143,7 @@ Here is a selected list of my research publications. See <a href="https://schola
         <a href="https://arxiv.org/abs/2409.06407" target="_blank">arXiv</a> /
         <a href="https://github.com/AaltoML/uncertainty-nerf-gs" target="_blank">code</a> 
       </div>
-      We categorized sources of uncertainties in 3D scene reconstruction using NeRF/Gaussian Splatting and proposed experimental setups for systematically evaluating their impact. 
+      We categorized sources of uncertainties in 3D scene reconstruction using NeRF/Gaussian Splatting and proposed experimental setups for evaluating their impact. 
     </div>
   </div>
 
@@ -164,7 +208,7 @@ Here is a selected list of my research publications. See <a href="https://schola
 }
 
 .publication-image {
-  width: 200px;
+  width: 224px;
   height: auto; 
   margin-right: 15px;
   border-radius: 5px;
