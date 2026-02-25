@@ -14,9 +14,13 @@ title: #Welcome
   <img src="images/marcusklasson_2024.jpg" alt="Marcus Klasson" class="profile-image">
   <div class="profile-text">
     <p class="profile-name">Marcus Klasson</p>
-    <p class="profile-bio"> I work as a researcher at <a href="https://www.ericsson.com/en" target="_blank">Ericsson</a>  in the Sensing and Perception team led by <a href="http://www.josearaujo.org/" target="_blank">José Araújo</a>. <br><br>
+    <p class="profile-bio"> 
+    I work as a researcher at <a href="https://www.ericsson.com/en" target="_blank">Ericsson</a> in the 
+    Cyber-Physical Systems - Sensing and Perception team led by <a href="http://www.josearaujo.org/" target="_blank">José Araújo</a>. 
+    My main focus is on reconstruction of radio frequency signals using NeRF and 3D Gaussian Splatting.
+    <br><br>
 	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a>, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
-    After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a> on uncertainty-aware methods for computer vision topics such as NeRF/Gaussian Splatting and Vision Language Models. 
+    After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>. 
     </p>
     <div class="profile-links">
       <a href="https://marcusklasson.github.io/files/cv_march2024.pdf" target="_blank">CV</a> /
@@ -79,7 +83,7 @@ Here is a list of my research publications:
     <div class="publication-text">
       <strong>Post-hoc Probabilistic Vision-Language Models</strong><br>
        <a href="https://scholar.google.de/citations?user=4CEGXaYAAAAJ" target="_blank">Anton Baumann</a>, <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <strong>Marcus Klasson</strong>, <a href="https://scholar.google.com/citations?user=35fWh2oAAAAJ" target="_blank">Santeri Mentu</a>, <a href="https://sgk98.github.io/" target="_blank">Shyamgopal Karthik</a>, <a href="https://www.helmholtz-munich.de/en/chc/eml/pi/zeynep-akata" target="_blank">Zeynep Akata</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
-      <em>preprint </em> <br>
+      <em>ICLR, 2026 </em> <br>
       <div class="publication-links">
       <a href="https://aaltoml.github.io/BayesVLM/" target="_blank">project page</a> /
         <a href="https://arxiv.org/abs/2412.06014" target="_blank">arXiv</a> /

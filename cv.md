@@ -18,7 +18,7 @@ permalink: /cv/
     <b>Linkedin</b>
   </div>
   <div class="columnright" style="">
-    <a href="mailto:marcus.klasson@aalto.fi">marcus.klasson@aalto.fi</a> 
+    <a href="mailto:marcus.klasson@ericsson.com">marcus.klasson@ericsson.com</a> 
     <br>
     <a href="https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en">https://scholar.google.es/citations?user=H9VHxP4AAAAJ&hl=en</a> 
     <br>
