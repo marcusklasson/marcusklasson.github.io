@@ -79,10 +79,39 @@ Here is a list of my research publications:
 <div class="publications">
 
   <div class="publication">
+    <img src="images/publications/dpcl.png" alt="Paper 2 Image" class="publication-image">
+    <div class="publication-text">
+      <strong>Privacy Leakage via Output Label Space and Differentially Private Continual Learning</strong><br>
+       <a href="https://scholar.google.com/citations?user=pgyBA6YAAAAJ&hl=en" target="_blank">Marlon Tobaben</a>, 
+       <a href="https://scholar.google.com/citations?user=gRX6JOgAAAAJ&hl=en&oi=sra" target="_blank">Talal Alrawajfeh</a>, 
+       <strong>Marcus Klasson</strong>, 
+       <a href="https://scholar.google.com/citations?user=8qSL6B0AAAAJ&hl=en" target="_blank">Mikko Heikkilä</a>,
+       <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <br>
+       <a href="https://scholar.google.com/citations?user=XsyLs6AAAAAJ&hl=en" target="_blank">Antti Honkela</a> <br>
+      <em>TMLR, 2026 </em> <br>
+      <div class="publication-links">
+      <a href="https://openreview.net/forum?id=ZshFgRQWrm" target="_blank">openreview</a> /
+        <a href="https://arxiv.org/abs/2411.04680" target="_blank">arXiv</a> /
+        <a href="https://github.com/TrustworthyMLHelsinki/dp-continual-learning/" target="_blank">code</a> 
+      </div>
+      Classifiers with continually growing output spaces suffer from a privacy side-channel and
+      we propose DP mechanisms for preventing this in continual learning settings.  
+    </div>
+  </div>
+
+
+  <div class="publication">
     <img src="images/publications/bayesvlm.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Post-hoc Probabilistic Vision-Language Models</strong><br>
-       <a href="https://scholar.google.de/citations?user=4CEGXaYAAAAJ" target="_blank">Anton Baumann</a>, <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <strong>Marcus Klasson</strong>, <a href="https://scholar.google.com/citations?user=35fWh2oAAAAJ" target="_blank">Santeri Mentu</a>, <a href="https://sgk98.github.io/" target="_blank">Shyamgopal Karthik</a>, <a href="https://www.helmholtz-munich.de/en/chc/eml/pi/zeynep-akata" target="_blank">Zeynep Akata</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
+       <a href="https://scholar.google.de/citations?user=4CEGXaYAAAAJ" target="_blank">Anton Baumann</a>, 
+       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, 
+       <strong>Marcus Klasson</strong>, 
+       <a href="https://scholar.google.com/citations?user=35fWh2oAAAAJ" target="_blank">Santeri Mentu</a>, 
+       <a href="https://sgk98.github.io/" target="_blank">Shyamgopal Karthik</a>, <br>
+       <a href="https://www.helmholtz-munich.de/en/chc/eml/pi/zeynep-akata" target="_blank">Zeynep Akata</a>, 
+       <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, 
+       <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
       <em>ICLR, 2026 </em> <br>
       <div class="publication-links">
       <a href="https://aaltoml.github.io/BayesVLM/" target="_blank">project page</a> /
@@ -97,7 +126,12 @@ Here is a list of my research publications:
     <img src="images/publications/desplat.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering</strong><br>
-       <a href="https://johanna0626.github.io/" target="_blank">Yihao Wang</a>, <strong>Marcus Klasson</strong>, <a href="https://maturk.github.io/" target="_blank">Matias Turkulainen</a>, <a href="https://ffrivera0.github.io/" target="_blank">Shuzhe Wang</a>, <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+       <a href="https://johanna0626.github.io/" target="_blank">Yihao Wang</a>, 
+       <strong>Marcus Klasson</strong>, 
+       <a href="https://maturk.github.io/" target="_blank">Matias Turkulainen</a>, 
+       <a href="https://ffrivera0.github.io/" target="_blank">Shuzhe Wang</a>, 
+       <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, <br>
+       <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
       <em>CVPR, 2025 </em> <br>
       <div class="publication-links">
       <a href="https://aaltoml.github.io/desplat/" target="_blank">project page</a> /
@@ -112,7 +146,10 @@ Here is a list of my research publications:
     <img src="images/publications/streamlined.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Streamlining Prediction in Bayesian Deep Learning</strong><br>
-       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <strong>Marcus Klasson</strong>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
+       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, 
+       <strong>Marcus Klasson</strong>, 
+       <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a>, 
+       <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a> <br>
       <em>ICLR, 2025 </em> <br>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2411.18425" target="_blank">arXiv</a> /
@@ -126,7 +163,10 @@ Here is a list of my research publications:
     <img src="images/publications/flatness-small.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Flatness Improves Backbone Generalisation in Few-shot Classification</strong><br>
-       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a>, <strong>Marcus Klasson</strong>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+       <a href="https://ruili-pml.github.io/" target="_blank">Rui Li</a>, 
+       <a href="https://trappmartin.github.io/website/" target="_blank">Martin Trapp</a>, 
+       <strong>Marcus Klasson</strong>, 
+       <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
       <em>WACV, 2025 <strong>(Oral Presentation)</strong> </em> <br>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2404.07696" target="_blank">arXiv</a> /
@@ -140,7 +180,10 @@ Here is a list of my research publications:
     <img src="images/publications/sources.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Sources of Uncertainty in 3D Scene Reconstruction</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://scholar.google.com/citations?user=UVziXI0AAAAJ" target="_blank">Riccardo Mereu</a>, <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
+      <strong>Marcus Klasson</strong>, 
+      <a href="https://scholar.google.com/citations?user=UVziXI0AAAAJ" target="_blank">Riccardo Mereu</a>, 
+      <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>, 
+      <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> <br>
       <em>ECCV Workshop on Uncertainty for Computer Vision, 2024</em><br>
       <div class="publication-links">
       	<a href="https://aaltoml.github.io/uncertainty-nerf-gs/" target="_blank">project page</a> /
@@ -156,7 +199,9 @@ Here is a list of my research publications:
     <img src="images/publications/replayschedule_tree.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Learn the Time to Learn: Replay Scheduling in Continual Learning</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a> <br>
+      <strong>Marcus Klasson</strong>, 
+      <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a>, 
+      <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a> <br>
       <em>TMLR, 2023</em><br>
       <div class="publication-links">
       	<a href="https://openreview.net/forum?id=Q4aAITDgdP" target="_blank">openreview</a> /
@@ -172,7 +217,9 @@ Here is a list of my research publications:
     <img src="images/publications/patterns-pipeline.png" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>Using Variational Multi-view Learning for Classification of Grocery Items</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
+      <strong>Marcus Klasson</strong>, 
+      <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, 
+      <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
       <em>Patterns, 2020</em><br>
       <div class="publication-links">
         <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30191-4" target="_blank">paper</a> /  
@@ -186,7 +233,9 @@ Here is a list of my research publications:
     <img src="images/publications/wacv_intro.jpg" alt="Paper 2 Image" class="publication-image">
     <div class="publication-text">
       <strong>A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels</strong><br>
-      <strong>Marcus Klasson</strong>, <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
+      <strong>Marcus Klasson</strong>, 
+      <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>, 
+      <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> <br>
       <em>WACV, 2019</em><br>
       <div class="publication-links">
         <a href="https://github.com/marcusklasson/GroceryStoreDataset" target="_blank">dataset</a> /
