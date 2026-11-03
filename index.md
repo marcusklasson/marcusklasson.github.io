@@ -15,19 +15,20 @@ title: #Welcome
   <div class="profile-text">
     <p class="profile-name">Marcus Klasson</p>
     <p class="profile-bio"> 
-    I work as a researcher at <a href="https://www.ericsson.com/en" target="_blank">Ericsson</a> in the 
-    Cyber-Physical Systems - Sensing and Perception team led by <a href="http://www.josearaujo.org/" target="_blank">José Araújo</a>. 
-    My main focus is on reconstruction of radio frequency signals using NeRF and 3D Gaussian Splatting.
+    I work as a researcher at <a href="https://www.kth.se/kcsc/kcsc-1.1459300" target="_blank">KTH Center for Scientific Computing (KCSC)</a> and at the <a href="https://swedenaifactory.se/" target="_blank">Sweden AI Factory</a> focusing on autonomous systems. 
     <br><br>
 	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a>, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
-    After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>. 
+    I also did a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>.
+    <!-- 
+    After the PhD, I was a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>.
+  -->
     </p>
     <div class="profile-links">
       <a href="https://marcusklasson.github.io/files/cv_march2024.pdf" target="_blank">CV</a> /
       <a href="https://scholar.google.com/citations?user=H9VHxP4AAAAJ&h" target="_blank">Scholar</a> /
       <a href="https://github.com/marcusklasson" target="_blank">GitHub</a> /
       <a href="https://bsky.app/profile/marcusklasson.bsky.social" target="_blank">Bluesky</a> /
-      <a href="mailto:marcus.klasson@ericsson.com" target="_blank">Email</a>
+      <a href="mailto:mklas@kth.se" target="_blank">Email</a>
     </div>
   </div>
 </div>
@@ -58,7 +59,7 @@ title: #Welcome
 }
 
 .profile-bio {
-  font-size: 13px;
+  font-size: 12px;
   margin: 5px 0;
 }
 
@@ -72,7 +73,8 @@ title: #Welcome
 
 ## Research
 
-I am interested in computer vision, deep learning, various approaches to uncertainty estimation, and their real-world applications where methods must adapt fast under limited supervision and resources. 
+I am interested in computer vision, deep learning, and their real-world applications 
+where the methods must act robustly and adapt fast under limited supervision and resources. 
 
 Here is a list of my research publications: 
 
