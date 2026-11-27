@@ -15,7 +15,7 @@ title: #Welcome
   <div class="profile-text">
     <p class="profile-name">Marcus Klasson</p>
     <p class="profile-bio"> 
-    I work as a researcher at <a href="https://www.kth.se/kcsc/kcsc-1.1459300" target="_blank">KTH Center for Scientific Computing (KCSC)</a> and at the <a href="https://swedenaifactory.se/" target="_blank">Sweden AI Factory</a> focusing on autonomous systems. 
+    I work as a researcher at <a href="https://www.kth.se/kcsc/kcsc-1.1459300" target="_blank">KTH Center for Scientific Computing (KCSC)</a> and at the <a href="https://swedenaifactory.se/" target="_blank">Sweden AI Factory</a> as an applications expert in autonomous systems. 
     <br><br>
 	  I obtained my PhD from <a href="https://www.kth.se/en" target="_blank">KTH</a>, where I was supervised by <a href="https://www.kth.se/profile/hedvig" target="_blank">Hedvig Kjellström</a> and <a href="https://cheng-zhang.org/" target="_blank">Cheng Zhang</a>. 
     I also did a postdoc at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working with <a href="https://users.aalto.fi/~asolin/" target="_blank">Arno Solin</a> and <a href="https://users.aalto.fi/~kannalj1/" target="_blank">Juho Kannala</a>.
